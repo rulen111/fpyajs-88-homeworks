@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@rulen111/fpyajs-hw3-lib": "^1.0.0"
+    "@rulen111/ajs": "^1.0.0"
   }
 }

@@ -1,3 +1,3 @@
-const ajs = require('@rulen111/fpyajs-hw3-lib');
+const ajs = require('@rulen111/ajs');
 
 console.log(ajs.info());
